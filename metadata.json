@@ -1,0 +1,6 @@
+{
+  "name": "Magen-Ernährung: Gastritis Leitfaden",
+  "description": "Offizielle Verkaufsseite für den E-Book-Leitfaden Magen-Ernährung: Gastritis verstehen, Mahlzeiten planen und Unverträglichkeiten erkennen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
